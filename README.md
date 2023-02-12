@@ -43,7 +43,7 @@ CEGOS_CHALLENGE
 
 ### Steps to run application
 
-1. Import cegos_db.sql into your DBMS.
+1. Create DB cegos_db and import cegos_db.sql into cegos_db DB.
 2. Replace user name and password credencials in gerData.php and insertData.php files.
 3. Open Apllication Folder in XAMPP and move CEGOS_CHALLENGE folder into htdocs folder.
 4. Open http://localhost/cegos_challenge/index.php?track=434c4855423b44533b747669643030363b75733b687474703a2f2f6c6f63616c686f73743b313932303b313038303b4368726f6d653b3130342e302e302e303b66616c73653b66616c73653b57696e646f77733b31303b74727565
